@@ -1,1 +1,2 @@
-# BD_DB-HDR
+# BD-HDR
+Offline Handwritten Bengali District Name Recognition Using CNN
